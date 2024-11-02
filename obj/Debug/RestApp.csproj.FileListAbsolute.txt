@@ -1,0 +1,10 @@
+C:\Users\Public\Desk\c#\RestApp\bin\Debug\RestApp.exe.config
+C:\Users\Public\Desk\c#\RestApp\bin\Debug\RestApp.exe
+C:\Users\Public\Desk\c#\RestApp\bin\Debug\RestApp.pdb
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.csproj.AssemblyReference.cache
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.Form1.resources
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.Properties.Resources.resources
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.csproj.GenerateResource.cache
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.exe
+C:\Users\Public\Desk\c#\RestApp\obj\Debug\RestApp.pdb
