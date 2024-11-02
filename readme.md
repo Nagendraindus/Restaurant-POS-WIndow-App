@@ -1,7 +1,7 @@
 # Fast Food Restaurant POS System
 
 A simple and intuitive Point of Sale (POS) system designed for fast food restaurants. This application provides an easy-to-use interface for processing orders and calculating totals with tax.
-![image](https://github.com/user-attachments/assets/9493a961-c6c5-4c29-84ac-7959e94cd256)
+
 ![image](https://github.com/user-attachments/assets/adb32184-33a6-43d8-bcb8-cd135141b6ef)
 ## Features
 
@@ -20,7 +20,7 @@ A simple and intuitive Point of Sale (POS) system designed for fast food restaur
   - PRINT: Generate receipt
 
 ## Interface Details
-
+![image](https://github.com/user-attachments/assets/9493a961-c6c5-4c29-84ac-7959e94cd256)
 
 - **Window Header**: Features date and time display
 - **Draggable Window**: The entire window can be dragged by clicking and holding the top panel
